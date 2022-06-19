@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dmac7gamer
-- 👀 I’m interested in html , C++
+- 👀 I’m work in html , C++
 - 📫 How to reach me Discord id :- Dmac#8768
 
 <!---
